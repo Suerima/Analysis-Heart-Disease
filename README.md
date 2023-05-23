@@ -12,10 +12,8 @@ Giải thích tên biến:
 - cp - 'check_pain_type': các loại đau thắt ngực:
 
     - Giá trị 0 - đau điển hình: (1) đau dưới ngực
-
-                                (2) sự khó chịu khi bị kích động
-
-			                    (3) căng thẳng cảm xúc
+				 (2) sự khó chịu khi bị kích động
+				 (3) căng thẳng cảm xúc
  
     -  Giá trị 1 - đau không điển hình: khi có 2 trong 3 triệu chứng của đau điển hình.
 
