@@ -41,11 +41,11 @@ Giải thích tên biến:
 
 - restecg - 'rest\_electrocardiographic': kết quả điện tâm đồ lúc nghỉ ngơi
 
-    -  Giá trị 0: bình thường
+    	-  Giá trị 0: bình thường
 
-    -  Giá trị 1: Có bất thường sóng ST ST-T (phắc phẫu sóng T và / hoặc độ cao hoặc trầm cảm của ST> 0,05 MV)
+    	-  Giá trị 1: Có bất thường sóng ST ST-T (phắc phẫu sóng T và / hoặc độ cao hoặc trầm cảm của ST> 0,05 MV)
 
-    -  Giá trị 2: hiển thị phì đại thất trái có thể xảy ra hoặc xác định bởi các tiêu chí của Estes
+   	 -  Giá trị 2: hiển thị phì đại thất trái có thể xảy ra hoặc xác định bởi các tiêu chí của Estes
 
 - thalach:  nhịp tim tối đa đạt được (BPM: nhịp trên phút)
 
