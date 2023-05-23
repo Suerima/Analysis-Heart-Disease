@@ -11,9 +11,9 @@ Giải thích tên biến:
 
 - cp - 'check_pain_type': các loại đau thắt ngực:
 
-    - Giá trị 0 - đau điển hình: (1) đau dưới ngực
-				 (2) sự khó chịu khi bị kích động
-				 (3) căng thẳng cảm xúc
+    - Giá trị 0 - đau điển hình: - (1) đau dưới ngực
+				 - (2) sự khó chịu khi bị kích động
+				 - (3) căng thẳng cảm xúc
  
     -  Giá trị 1 - đau không điển hình: khi có 2 trong 3 triệu chứng của đau điển hình.
 
@@ -37,15 +37,12 @@ Giải thích tên biến:
 
     -  ≤ 120: bình thường (0 : false)
 
-    -  > 120: có nguy cơ bị tiểu đường có thể dẫn đến bị bệnh tim mạch gây ra các cơn đau thắt ngực (1: true)
+    -  '> 120: có nguy cơ bị tiểu đường có thể dẫn đến bị bệnh tim mạch gây ra các cơn đau thắt ngực (1: true)
 
 - restecg - 'rest\_electrocardiographic': kết quả điện tâm đồ lúc nghỉ ngơi
-
-    	-  Giá trị 0: bình thường
-
-    	-  Giá trị 1: Có bất thường sóng ST ST-T (phắc phẫu sóng T và / hoặc độ cao hoặc trầm cảm của ST> 0,05 MV)
-
-   	 -  Giá trị 2: hiển thị phì đại thất trái có thể xảy ra hoặc xác định bởi các tiêu chí của Estes
+	-  Giá trị 0: bình thường
+	-  Giá trị 1: Có bất thường sóng ST ST-T (phắc phẫu sóng T và / hoặc độ cao hoặc trầm cảm của ST> 0,05 MV)
+	 -  Giá trị 2: hiển thị phì đại thất trái có thể xảy ra hoặc xác định bởi các tiêu chí của Estes
 
 - thalach:  nhịp tim tối đa đạt được (BPM: nhịp trên phút)
 
